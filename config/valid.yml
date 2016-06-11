@@ -1,0 +1,6 @@
+name: Employee Name
+office: Office Location
+start_date: 02 March 2015
+output_file_name: SomeName_T2_Tracker_Sheet.xlsx
+leaves:
+- 01 April 2015
